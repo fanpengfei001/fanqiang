@@ -1,5 +1,5 @@
 
-:sunny:：晴天：：晴天：：晴天
+:sunny:sunny:sunny:sunny
 
 ：
 Shadowsock
