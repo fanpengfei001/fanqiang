@@ -29,7 +29,7 @@ www.gfw.press
 
 www.booms.cc
 
-(https://telegram.me/mpasr)**
+https://telegram.me/mpasr
  
  
 
