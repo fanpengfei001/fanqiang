@@ -9,7 +9,6 @@ www.sscat.ga
 
 www.stormss.online
 
-www.mianvpn.com
 
 www.gfw.press
 
@@ -29,7 +28,7 @@ www.gfw.press
 
 www.booms.cc
 
-[telegram.me](https://telegram.me/mpasr)
+[www.telegram.me] (https://telegram.me/mpasr)
  
 www.speedmm.co
  
