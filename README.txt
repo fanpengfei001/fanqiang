@@ -28,7 +28,7 @@ www.gfw.press
 
 www.booms.cc
 
-[www.telegram.me] (https://telegram.me/mpasr)
+www.telegram.me
  
 www.speedmm.co
  
