@@ -29,4 +29,10 @@ www.speedmm.co
 
 翻墙合集:  https://github.com/bannedbook/fanqiang 
 
+海盗台：   https://github.com/squidproxy
+
+破娃酱：   https://github.com/breakwa11/shadowsocks-rss
+
+
+
 
