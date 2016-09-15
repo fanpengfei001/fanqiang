@@ -31,7 +31,8 @@ www.speedmm.co
 
 海盗台：   https://github.com/squidproxy
 
-破娃酱：   https://github.com/breakwa11/shadowsocks-rss [破娃酱] (https://github.com/breakwa11/shadowsocks-rss)
+破娃酱：   https://github.com/breakwa11/shadowsocks-rss 
+[破娃酱](https://github.com/breakwa11/shadowsocks-rss)
 
 
 
