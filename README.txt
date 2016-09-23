@@ -34,3 +34,5 @@ www.speedmm.co
  https://booms.cc/
 
 http://www.poqiang.info/
+
+http://www.dogji.xyz/ 
