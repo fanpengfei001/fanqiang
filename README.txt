@@ -31,6 +31,8 @@ www.speedmm.co
 
  破娃酱  https://github.com/breakwa11/shadowsocks-rss 
  
+ https://www.freefan.cc/  zhuanghecun
+ 
  https://booms.cc/
 
 http://www.poqiang.info/
