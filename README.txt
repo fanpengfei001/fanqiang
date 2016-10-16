@@ -42,3 +42,5 @@ http://www.dogji.xyz/
 https://otakuss.com/code  1GB
 
 http://dnb1l.tk/code      5GB
+
+http://chrome-extension-downloader.com/  Google Chrome VPN插件 
