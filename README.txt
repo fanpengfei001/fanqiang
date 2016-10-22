@@ -44,3 +44,5 @@ https://otakuss.com/code  1GB
 http://dnb1l.tk/code      5GB
 
 http://chrome-extension-downloader.com/  Google Chrome VPN插件 
+
+https://www.zhihu.com/question/32223811  您还没有安装flash播放器,请点击这里安装 
