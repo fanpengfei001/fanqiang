@@ -49,7 +49,8 @@ https://www.zhihu.com/question/32223811  您还没有安装flash播放器,请点
 
 https://netfits.net/    云墙  1GB
 
-https://windscribe.com/ 10GB  http://google.ilv.tw/blog/?p=213
+https://windscribe.com/ 10GB   来自： http://google.ilv.tw/blog/?p=213
 
+https://www.shadowsocks.space/ 20GB
 
    
