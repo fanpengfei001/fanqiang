@@ -48,4 +48,8 @@ http://chrome-extension-downloader.com/  Google Chrome VPN插件
 https://www.zhihu.com/question/32223811  您还没有安装flash播放器,请点击这里安装 
 
 https://netfits.net/    云墙  1GB
+
+https://windscribe.com/ 10GB  http://google.ilv.tw/blog/?p=213
+
+
    
