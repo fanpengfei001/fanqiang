@@ -54,4 +54,6 @@ https://windscribe.com/ 10GB   来自： http://google.ilv.tw/blog/?p=213
 https://www.shadowsocks.space/ 20GB
 
 https://www.91ssfq.com/archives/48  Android版ShadowsocksR（SSR）客户端下载地址3.2.7.8版 – 91ss翻牆网
+
+http://efancc.cc/user/login.php 分支：http://efan.52633333.cn/buy/?  http://0.52633333.cn/  zhuanghecun001
    
