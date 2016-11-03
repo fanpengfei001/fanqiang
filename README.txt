@@ -57,3 +57,5 @@ https://www.91ssfq.com/archives/48  Android版ShadowsocksR（SSR）客户端下�
 
 http://efancc.cc/user/login.php 分支：http://efan.52633333.cn/buy/?  http://0.52633333.cn/  zhuanghecun001
    
+https://www.ss-link.me/ 7元/月
+
