@@ -61,3 +61,8 @@ http://efancc.cc/user/login.php 分支：http://efan.52633333.cn/buy/?  http://0
    
 https://www.ss-link.me/ 7元/月
 
+
+http://www.guaguass.me/   zhuanghecun001     AAA
+流量不会重置，可通过每日签到获取200M-500M流量。为了防止滥用，初始用户默认10G流量。
+用完流量可邮件guaguagfw@gmail.com微信fxxde0605免费获取
+
