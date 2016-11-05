@@ -27,9 +27,9 @@ www.telegram.me
  
 www.speedmm.co
 
- 翻墙合集 https://github.com/bannedbook/fanqiang  
+https://github.com/bannedbook/fanqiang  翻墙合集
 
- 破娃酱  https://github.com/breakwa11/shadowsocks-rss 
+https://github.com/breakwa11/shadowsocks-rss  破娃酱 
  
  https://www.freefan.cc/  zhuanghecun
  
@@ -60,7 +60,6 @@ https://www.91ssfq.com/archives/48  Android版ShadowsocksR（SSR）客户端下�
 http://efancc.cc/user/login.php 分支：http://efan.52633333.cn/buy/?  http://0.52633333.cn/  zhuanghecun001
    
 https://www.ss-link.me/ 7元/月
-
 
 http://www.guaguass.me/   zhuanghecun001     AAA
 流量不会重置，可通过每日签到获取200M-500M流量。为了防止滥用，初始用户默认10G流量。
