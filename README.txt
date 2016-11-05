@@ -3,9 +3,9 @@ Hello，我是阿飞.:laughing:
 
 Shadowsocks服务商
 
-www.sscat.ga 
+www.sscat.ga XXX
 
-www.stormss.online
+www.stormss.online XXX
 
 www.squidproxy.github.io
 
@@ -64,4 +64,8 @@ https://www.ss-link.me/ 7元/月
 http://www.guaguass.me/   zhuanghecun001     AAA
 流量不会重置，可通过每日签到获取200M-500M流量。为了防止滥用，初始用户默认10G流量。
 用完流量可邮件guaguagfw@gmail.com微信fxxde0605免费获取
+ 
+ 
+ [浏览器插件：快速安全通道](https://chrome.google.com/webstore/detail/faststunnel-vpn-unblack-s/bblcccknbdbplgmdjnnikffefhdlobhp﻿)  
 
+ 
