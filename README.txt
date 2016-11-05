@@ -66,6 +66,6 @@ http://www.guaguass.me/   zhuanghecun001     AAA
 用完流量可邮件guaguagfw@gmail.com微信fxxde0605免费获取
  
  
- [浏览器插件：快速安全通道](https://chrome.google.com/webstore/detail/faststunnel-vpn-unblack-s/bblcccknbdbplgmdjnnikffefhdlobhp﻿)  
+[浏览器插件：快速安全通道](https://chrome.google.com/webstore/detail/faststunnel-vpn-unblack-s/bblcccknbdbplgmdjnnikffefhdlobhp﻿)  
 
  
