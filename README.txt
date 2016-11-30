@@ -35,6 +35,8 @@ https://github.com/breakwa11/shadowsocks-rss  破娃酱
  
  http://efancc.cc  fanpengfei521
  
+ https://www.ccworld.us  fanpengfei522
+ 
  https://booms.cc/
 
 http://www.poqiang.info/
