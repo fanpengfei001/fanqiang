@@ -70,4 +70,7 @@ http://www.guaguass.me/   zhuanghecun001     AAA
  
 [浏览器插件：快速安全通道](https://chrome.google.com/webstore/detail/faststunnel-vpn-unblack-s/bblcccknbdbplgmdjnnikffefhdlobhp﻿)  
 
-VPN:  http://www.taijievpn.com/page/2   http://free.58tt.net/   
+VPN:  http://www.taijievpn.com/page/2   http://free.58tt.net/  
+http://vpnxn.pro   AAA
+
+
