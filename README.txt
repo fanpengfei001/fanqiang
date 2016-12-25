@@ -35,7 +35,11 @@ https://github.com/breakwa11/shadowsocks-rss  破娃酱
  
  http://efancc.cc  fanpengfei521
  
- https://www.ccworld.us  fanpengfei522
+ https://www.ccworld.us  fanpengfei522  404
+ 
+ https://喵帕斯.com  fanpengfei522 
+ 
+ 
  
  https://booms.cc/
 
@@ -73,4 +77,12 @@ http://www.guaguass.me/   zhuanghecun001     AAA
 VPN:  http://www.taijievpn.com/page/2   http://free.58tt.net/  
 http://vpnxn.pro   AAA
 
+
+节点：158.69.212.186 或 158.69.212.21 或 149.56.44.241
+
+端口：9942
+
+密码：NQTDkraSD7
+
+加密：aes-256-cfb
 
