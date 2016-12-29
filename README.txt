@@ -1,5 +1,7 @@
 Hello，我是阿飞.:laughing:
 
+AAA OK :  Outer Joy:
+45.32.17.61   8080,aes-256-cfb   ltetp.tv189.com
 
 Shadowsocks服务商
 
