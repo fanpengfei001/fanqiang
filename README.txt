@@ -1,7 +1,6 @@
 Hello，我是阿飞.:laughing:
 
-AAA OK :  Outer Joy:
-45.32.17.61   8080,aes-256-cfb   ltetp.tv189.com
+AAA OK : 108.61.246.26,80, chacha20,  Ss5gh60t.oGo
 
 Shadowsocks服务商
 
