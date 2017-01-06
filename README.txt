@@ -1,5 +1,8 @@
 Hello，我是阿飞.:laughing:
 
+
+## www.freefq.com  404
+
 AAA OK : 108.61.246.26,80, chacha20,  Ss5gh60t.oGo
 
 Shadowsocks服务商
