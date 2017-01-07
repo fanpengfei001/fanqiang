@@ -43,6 +43,8 @@ https://github.com/breakwa11/shadowsocks-rss  破娃酱
  
  https://喵帕斯.com  fanpengfei522 
  
+ www.speeder.me     fanpengfei522 OK
+ 
  
  
  https://booms.cc/
