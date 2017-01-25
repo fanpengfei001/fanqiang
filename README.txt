@@ -5,6 +5,8 @@ Hello，我是阿飞.:laughing:
 
 AAA OK : 108.61.246.26,80, chacha20,  Ss5gh60t.oGo
 
+http://www.tianxing1.com/usercenter.php  AAA  百度广告
+
 Shadowsocks服务商
 
 www.sscat.ga XXX
