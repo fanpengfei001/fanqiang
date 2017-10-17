@@ -11,6 +11,17 @@ AAA OK : 108.61.246.26,80, chacha20,  Ss5gh60t.oGo
 http://www.tianxing1.com/usercenter.php  AAA  百度广告
 
 Shadowsocks服务商
+https://www.zspeeder.com/  522@gmail.com  AAAAAA
+https://gfw.press          ------------  AAAXXXX
+
+
+
+地址：	45.77.72.64
+107.191.50.157
+端口：	10707
+密码：	p84W35KfHn
+
+
 
 www.sscat.ga XXX
 
@@ -96,4 +107,6 @@ http://vpnxn.pro   AAA
 密码：NQTDkraSD7
 
 加密：aes-256-cfb
+
+
 
