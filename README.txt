@@ -13,7 +13,12 @@ http://www.tianxing1.com/usercenter.php  AAA  百度广告
 Shadowsocks服务商
 https://www.zspeeder.com/  522@gmail.com  AAAAAA
 https://gfw.press          ------------  AAAXXXX
+https://www.feifeiss.com/  521@hotmail  
+http://ss.bye.to/
 http://xingyu.vtsone.com/  未注册
+https://www.shadowsocks8.tech/
+https://cp.u9un.com/cart.php 
+http://pro.bye.to/
 iphone 美区：66VPN---快啊VPN
 https://plus.google.com/communities/104092405342699579599 群组
 https://caozuo.org/
@@ -21,6 +26,9 @@ https://pabodns.cn/
 https://www.zzcloud.me/cart.php
 https://o00p.cc/
 https://doub.io/ 论坛
+http://shadowsocksph.space/#server-updates
+ 
+ssr://MTA0LjE2OC45NC4yNTI6ODA4MDphdXRoX2NoYWluX2E6bm9uZTp0bHMxLjJfdGlja2V0X2F1dGg6Wkc5MVlnLz9vYmZzcGFyYW09JnByb3RvcGFyYW09JnJlbWFya3M9TVRBMExqRTJPQzQ1TkM0eU5USSZncm91cD0
 
 
 
