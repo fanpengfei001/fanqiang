@@ -27,6 +27,8 @@ https://www.zzcloud.me/cart.php
 https://o00p.cc/
 https://doub.io/ 论坛
 http://shadowsocksph.space/#server-updates
+https://www.netfits.net/ XXX
+https://windscribe.com 备用 未知
  
 ssr://MTA0LjE2OC45NC4yNTI6ODA4MDphdXRoX2NoYWluX2E6bm9uZTp0bHMxLjJfdGlja2V0X2F1dGg6Wkc5MVlnLz9vYmZzcGFyYW09JnByb3RvcGFyYW09JnJlbWFya3M9TVRBMExqRTJPQzQ1TkM0eU5USSZncm91cD0
 
