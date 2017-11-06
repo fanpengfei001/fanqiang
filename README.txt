@@ -12,6 +12,7 @@ http://www.tianxing1.com/usercenter.php  AAA  百度广告
 
 Shadowsocks服务商
 https://www.zspeeder.com/  522@gmail.com  AAAAAA
+http://www.kiyoshi.technology/user/node 522@gmail.com------
 https://gfw.press          ------------  AAAXXXX
 https://www.feifeiss.com/  521@hotmail  
 http://ss.bye.to/
